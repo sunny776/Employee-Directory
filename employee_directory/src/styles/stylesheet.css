@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+*{
+margin: 0;
+font-family: "Quicksand";
+}
+
+.navbar {
+    align-items: center;
+    font-size: 30px;
+    padding: 20px;
+    display: flex;
+    max-width: 600px;
+    margin: 0 auto;
+  
+
+}

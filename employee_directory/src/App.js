@@ -1,13 +1,7 @@
-import Navbar from './components/Navbar'
-import Header from './components/Header'
-function App() {
-  return (
-    <div className="App">
-<Navbar />
-<Header />
+import EmployeeContainer from "./components/EmployeeContainer";
 
-    </div>
-  );
+function App() {
+  return <EmployeeContainer />;
 }
 
 export default App;

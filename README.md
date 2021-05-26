@@ -25,7 +25,7 @@ For this assignment, I had to create an employee directory with React. This assi
 This project is licensed under the MIT license.
 
 ## Preview
-![GIF](.\employee_directory\image\preview.gif)
+![GIF](.\\employee_directory\image\preview.gif)
 
 
 
